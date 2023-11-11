@@ -17,14 +17,14 @@ Technologies I actively use in iOS Version: Swift, SwiftUI, UIKit, Firebase, Ala
 
 # Lella: Language Learning Images from within the Application (Device: iPhone 15 Simulator iOS 17.0)
 
-![Home Page](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/344cbf91-f056-4c66-a27c-4526fd0cbe12)
-![Article Preview Page](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/3415ed5d-35e8-4963-875f-f89f3501873a)
-![Article Page when Listening (Reading words color changing orange)](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/08efd0ad-7b9c-4b66-846c-67989fad31a3)
+ 
+![Home Page](https://github.com/404ibra/iOS_Lella/assets/116425964/5acb542f-dda3-4c72-b59b-d248506f064e)
+![Article Preview Page](https://github.com/404ibra/iOS_Lella/assets/116425964/6141ef4d-b25a-4028-958d-a2ba9f5aa0d2)
+![Article Page when Listening (Reading words color changing orange)](https://github.com/404ibra/iOS_Lella/assets/116425964/b04a7ab4-29cf-48e7-a0ba-1d722da576be)
+![Quiz Dialog](https://github.com/404ibra/iOS_Lella/assets/116425964/bbcb63ac-dabc-417f-a7b1-35ad12f436af)
+![Quiz completed Dialog](https://github.com/404ibra/iOS_Lella/assets/116425964/ba430629-4019-44ae-a82d-e2bd090ccd39)
+![Article Screen when click on a word you don't know](https://github.com/404ibra/iOS_Lella/assets/116425964/4337b037-3270-429c-81de-1369c7f1c23e)
+![Archive Page](https://github.com/404ibra/iOS_Lella/assets/116425964/5ffa0c50-2a03-4d2e-9a7e-1eb02941721b)
+![Profile Page](https://github.com/404ibra/iOS_Lella/assets/116425964/554ab0d6-f47e-42c0-a590-ff67ab539ef1)
 
-![Quiz Dialog](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/cc6e665d-f303-4e38-b483-7d464013cfa1)
-![Quiz completed Dialog](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/5ba458ef-e490-4aa9-a7b0-56127456c771)
-![Article Screen when click on a word you don't know](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/18d50dd5-0e38-4cbc-ab0a-75178f796869)
-
-![Profile Screen](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/b79f38ac-cf63-4b0d-8d61-cea9f1ea25dc)
-![Archive Page saved words and texts are displayed here](https://github.com/404ibra/LearnEnglishWithStories/assets/116425964/1b6838cc-00ea-4c67-9be1-7897c6019c2b)
 
